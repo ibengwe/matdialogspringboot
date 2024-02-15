@@ -16,4 +16,8 @@ public class Staff {
     private String middlename;
     private String lastname;
     private String email;
+
+    private Integer quantity;
+
+    private Integer price;
 }
